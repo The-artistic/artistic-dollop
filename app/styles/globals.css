@@ -1,0 +1,3 @@
+/* minimal reset for preview */
+html,body,#root{height:100%}
+body{margin:0;font-family:system-ui,Arial;background:#071025;color:#fff}
